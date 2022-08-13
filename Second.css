@@ -1,0 +1,33 @@
+body{
+    background-color: #1C96C5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a1{
+    background-color: white;
+    text-align: center;
+    height: 460px;
+    width: 240px;
+    display: inline-block;
+    margin-top: 70px;
+    padding: 20px;
+}
+.b1{
+    height: 500px;
+    display: inline-block;
+    margin-top: 70px;
+}
+input{
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+button{
+    border: 2px solid #1C96C5;
+    background-color: #1C96C5;
+    color: white;
+    border-radius: 40px;
+    padding: 10px 20px 10px 20px;
+    font-style: normal;
+}

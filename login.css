@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #002842;
+}
+.bar{
+    display: inline-block;
+    background-color: blue;
+    padding: 50px;
+    color: white;
+    height: 100vh;
+    
+}
+.foo{
+    display: inline-block;
+    background-color: gray;
+    padding: 50px;
+    color: white;
+    height: 100vh;
+}
+button{
+    background-color: greenyellow;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 2px solid greenyellow;
+}
+input{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    /* border: 0px 0px 3px 0px; */
+}
